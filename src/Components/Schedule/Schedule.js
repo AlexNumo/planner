@@ -42,7 +42,9 @@ const Demo = () => {
       if (deleted !== undefined) {
         updatedData = prevData.filter((appointment) => appointment.id !== deleted);
       }
-
+      if (deleted) {
+        setCurrentDate()
+      }
       return updatedData;
     });
   };
