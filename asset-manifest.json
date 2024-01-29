@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/planner/static/js/main.209d2c7b.js",
+    "index.html": "/planner/index.html",
+    "main.209d2c7b.js.map": "/planner/static/js/main.209d2c7b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.209d2c7b.js"
+  ]
+}
